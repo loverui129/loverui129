@@ -1,5 +1,5 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-<h1 align ='center'> 😎 Hello everyone 😎
+<h1 align ='center'> 😎 Hello Everyone 😎
 <h3 align ='left' > I'm Rui, Nice to meet you !  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 
