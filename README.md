@@ -1,7 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-<h1 align ='center'> 😎 hello everyone I'm Rui <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-<h3 align ='left'> I am passionate new learner in Data Science 
+<h1 align ='center'> 😎 Hello everyone 😎
+<h3 align ='left' > I'm Rui ! I am passionate new learner in Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=loverui129)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-zhang-962522126/)
